@@ -9,3 +9,8 @@ Summarize product complaints
 Analyze support resolution efficiency
 Retrieve accurate return/refund policies
 Each tool has its own purpose and works in sync with the data available in the system.
+![image](https://github.com/user-attachments/assets/9e996e71-fab2-475e-b7e0-6e8de648eceb)
+
+![image](https://github.com/user-attachments/assets/5e5cecc6-80ac-4fdc-ad84-c787cd59b6b1)
+
+
